@@ -8,6 +8,8 @@ describe how many work units can be buffered and waiting to execute before
 adding new work units will block, and how many goroutines will be created
 to perform work.
 
+![go pool](https://frinkiac.com/meme/S06E01/195028.jpg?b64lines=SSdNIEdPTk5BCiBTVE9XQVdBWSBVTkRFUldBVEVSLAogQU5EIEdPIFdIRVJFIFRIRSBQT09MIEdPRVM=)
+
 # Usage
 
 ```
