@@ -76,6 +76,20 @@ If you need to get data _out_ of the work unit, you can build one that has a
 channel and read from that channel, but that's an implementation detail of
 your program.
 
+# Tests
+
+You can run the unit tests with:
+
+```
+go test
+```
+
+To get a coverage report, you can also run:
+
+```
+script/coverage --html
+```
+
 # License
 
 This project uses the Simplified BSD License.
